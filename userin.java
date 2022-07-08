@@ -24,17 +24,17 @@ public class userin {
         
 
         switch (year) {
-            case 7: System.out.println("Gread 4");
+            case 12: System.out.println("ป.6");
                 break;
-                case 8: System.out.println("Gread 5");
+                case 11: System.out.println("ป.5");
                 break;
-                case 9: System.out.println("Gread 6");
+                case 10: System.out.println("ป.4");
                 break;
-                case 10: System.out.println("Gread 7");
+                case 9: System.out.println("ป.3");
                 break;
-                case 11: System.out.println("Gread 8");
+                case 8: System.out.println("ป.2");
                 break;
-                case 12: System.out.println("Gread 9");
+                case 7: System.out.println("ป.1");
                 break;
               
             default: System.out.println("Pleas try agian");

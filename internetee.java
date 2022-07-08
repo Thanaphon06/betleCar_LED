@@ -17,7 +17,7 @@ public class internetee {
             
 
         }if(playtime > 2){
-            playtime = 40 + (5*(playtime -2));
+            playtime = 40 + (25*(playtime -2));
         System.out.println("you need to pay " + playtime + " Bath");
 
 

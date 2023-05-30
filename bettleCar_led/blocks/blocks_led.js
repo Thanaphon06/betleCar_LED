@@ -30,8 +30,6 @@ Blockly.defineBlocksWithJsonArray([
     }
   ], 
   "output": "Number",
-  "colour": "#004098",
-  "tooltip": "",
-  "helpUrl": ""
+  "colour": "#004098"
 } 
 ]);
